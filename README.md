@@ -4,7 +4,8 @@
 
 
 Source code: Program.cs
-`
+
+```
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using System;
@@ -97,4 +98,4 @@ namespace NetFlix.Login
         }
     }
 }
-`
+```
